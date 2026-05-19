@@ -18,4 +18,4 @@ into its production processes to improve operational efficiency, faster innovati
 * **Tools:** Market Research, Data Storytelling.
 * **Core activities:** Analyzed the implementation of Big Data systems within traditional transportation and supply chain
   workflows and eveloped a professional business presentation outlining a data-driven strategy for digital transformation.
-* **Link:** [View Project Presentation (PDF)](INSERT_LINK_TO_YOUR_PDF_HERE)
+* **Link:** [View Project Presentation (PDF)](https://github.com/marcofern98/marcofernando.github.io/blob/main/Data-Analytics-Projects/%20Data%20Analysis%20Introduction%20-%20Marco%20Fernando%20Caputo.pdf)
