@@ -25,7 +25,7 @@ into its production processes to improve operational efficiency, faster innovati
   The goal is to evaluate the impact of bureaucracy simplification (ISEE, energy, and water bonuses) on citizens' savings
   and measure how these savings are reinvested into local sports and welfare associations to promote health and well-being.
 * **Tools:** Microsoft Excel (Advanced Formulas, Data Cleaning, Conditional Formatting, Pivot Tables, Currency Visualization).
-* **Core activities:** * Cleaned and structured user and transaction databases across multiple relational sheets
+* **Core activities:** Cleaned and structured user and transaction databases across multiple relational sheets
   (utilizing advanced lookup functions like `VLOOKUP`/`XLOOKUP` to map cities and regional data).
   Automated data processing workflows using conditional formulas (`SUMIF`, `COUNTIF`, `COUNTIFS`, `AVERAGEIF`)
   to eliminate manual counting errors and dynamically calculate revenue streams, seasonal trends, and client profiling.
@@ -40,7 +40,7 @@ into its production processes to improve operational efficiency, faster innovati
   The project focuses on mapping customer demographics, identifying eco-conscious city ratings,
   analyzing guest transportation choices to promote low-environmental-impact vehicle rentals.
 * **Tools:** Microsoft Excel (Structured References, Advanced Formulas, Dynamic Arrays, Nested Functions, Multi-Criteria Pivot Tables).
-* **Core activities:** * **Data Quality & Cleaning:** Formulated techniques to identify unique customers using `COUNT(UNIQUE())` logic.
+* **Core activities:** Formulated techniques to identify unique customers using `COUNT(UNIQUE())` logic.
   Isolated missing geographical profiles (excluding specific locations), and detected formatting/spelling errors using sorting and range manipulation.
   Developed dynamic formulas using nested date functions (COUNTIF combined with EDATE and TODAY) to accurately calculate real-time age thresholds.
   Built advanced index-matching models (`INDEX`/`MATCH` combined with `MIN`) to identify spending extremes. 
