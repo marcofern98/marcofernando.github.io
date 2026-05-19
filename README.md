@@ -34,4 +34,16 @@ into its production processes to improve operational efficiency, faster innovati
   to communicate monthly performance and insights effectively for stakeholders.
 * **Link:** [Download Project (Excel File)](https://github.com/marcofern98/marcofernando.github.io/raw/main/Data-Analytics-Projects/Excel%20Project.xlsx)
 
-  ### caso 3
+### Advanced Sustainability Analytics & Customer Profiling
+
+* **Business Objective:** Analyze global hospitality data to support eco-friendly marketing strategies.
+  The project focuses on mapping customer demographics, identifying eco-conscious city ratings,
+  analyzing guest transportation choices to promote low-environmental-impact vehicle rentals.
+* **Tools:** Microsoft Excel (Structured References, Advanced Formulas, Dynamic Arrays, Nested Functions, Multi-Criteria Pivot Tables).
+* **Core activities:** * **Data Quality & Cleaning:** Formulated techniques to identify unique customers using `COUNT(UNIQUE())` logic.
+  isolated missing geographical profiles (excluding specific locations), and detected formatting/spelling errors using sorting and range manipulation.
+  Developed dynamic formulas using nested date functions (`COUNTIF` combined with `EDATE` and `TODAY`) to accurately calculate real-time age thresholds.
+  Built advanced index-matching models (`INDEX`/`MATCH` combined with `MIN`) to identify spending extremes. 
+  Applied advanced array-like filtering logic (`FILTER` with boolean multiplication `*`) to isolate users renting multiple specific micro-mobility vehicles.
+* **Link:** [Download Excel File & Analysis]()
+  
