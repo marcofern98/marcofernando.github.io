@@ -29,8 +29,8 @@ into its production processes to improve operational efficiency, faster innovati
   (utilizing advanced lookup functions like `VLOOKUP`/`XLOOKUP` to map cities and regional data).
   Automated data processing workflows using conditional formulas (`SUMIF`, `COUNTIF`, `COUNTIFS`, `AVERAGEIF`)
   to eliminate manual counting errors and dynamically calculate revenue streams, seasonal trends, and client profiling.
-* Developed an interactive Pivot Table framework to cross-analyze monthly sales trends by operational departments.
-* Designed data visualizations optimized with proper currency and professional formatting
+  Developed an interactive Pivot Table framework to cross-analyze monthly sales trends by operational departments.
+  Designed data visualizations optimized with proper currency and professional formatting
   to communicate monthly performance and insights effectively for stakeholders.
 * **Link:** [Download Project (Excel File)](https://github.com/marcofern98/marcofernando.github.io/raw/main/Data-Analytics-Projects/Excel%20Project.xlsx)
 
@@ -41,9 +41,9 @@ into its production processes to improve operational efficiency, faster innovati
   analyzing guest transportation choices to promote low-environmental-impact vehicle rentals.
 * **Tools:** Microsoft Excel (Structured References, Advanced Formulas, Dynamic Arrays, Nested Functions, Multi-Criteria Pivot Tables).
 * **Core activities:** * **Data Quality & Cleaning:** Formulated techniques to identify unique customers using `COUNT(UNIQUE())` logic.
-  isolated missing geographical profiles (excluding specific locations), and detected formatting/spelling errors using sorting and range manipulation.
-  Developed dynamic formulas using nested date functions (`COUNTIF` combined with `EDATE` and `TODAY`) to accurately calculate real-time age thresholds.
+  Isolated missing geographical profiles (excluding specific locations), and detected formatting/spelling errors using sorting and range manipulation.
+  Developed dynamic formulas using nested date functions (COUNTIF combined with EDATE and TODAY) to accurately calculate real-time age thresholds.
   Built advanced index-matching models (`INDEX`/`MATCH` combined with `MIN`) to identify spending extremes. 
   Applied advanced array-like filtering logic (`FILTER` with boolean multiplication `*`) to isolate users renting multiple specific micro-mobility vehicles.
-* **Link:** [Download Excel File & Analysis]()
+* **Link:** [Download Excel File](https://github.com/marcofern98/marcofernando.github.io/blob/main/Data-Analytics-Projects/Excel%20Advanced%20Project.xlsx)
   
