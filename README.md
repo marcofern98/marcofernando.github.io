@@ -32,4 +32,4 @@ into its production processes to improve operational efficiency, faster innovati
 * Developed an interactive Pivot Table framework to cross-analyze monthly sales trends by operational departments.
 * Designed data visualizations optimized with proper currency and professional formatting
   to communicate monthly performance and insights effectively for stakeholders.
-* **Link:** [View Project Presentation (Excel File)](INCOLLA_QUI_IL_LINK_DELLA_TUA_CARTELLA_O_DEL_FILE)
+* **Link:** [View Project Presentation (Excel File)](https://github.com/marcofern98/marcofernando.github.io/blob/main/Data-Analytics-Projects/Excel%20Project.xlsx)
