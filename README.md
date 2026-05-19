@@ -61,5 +61,5 @@ into its production processes to improve operational efficiency, faster innovati
   Applied multi-layered `INNER JOIN` and `LEFT JOIN` logic combining the core dataset with geographical metadata.
   Utilized boolean filters to isolate specific macro-regions (e.g., Nordic Countries vs. Middle East)
   and measure the direct impact of Feminist Foreign Policies (FFP) on appointment percentages.
-* **Link:** [[View SQL Queries (SQL File)](https://github.com/marcofern98/marcofernando.github.io/blob/main/Data-Analytics-Projects/SQL%20Project.sql) [View Project Presentation (PDF)](https://github.com/marcofern98/marcofernando.github.io/blob/main/Data-Analytics-Projects/SQL%20Presentation%20Project.pdf)
+* **Link:** [[View SQL Queries (SQL File)](https://github.com/marcofern98/marcofernando.github.io/blob/main/Data-Analytics-Projects/SQL%20Project.sql); [View Project Presentation (PDF)](https://github.com/marcofern98/marcofernando.github.io/blob/main/Data-Analytics-Projects/SQL%20Presentation%20Project.pdf)
   
