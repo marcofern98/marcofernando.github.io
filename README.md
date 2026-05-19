@@ -33,3 +33,5 @@ into its production processes to improve operational efficiency, faster innovati
 * Designed data visualizations optimized with proper currency and professional formatting
   to communicate monthly performance and insights effectively for stakeholders.
 * **Link:** [Download Project (Excel File)](https://github.com/marcofern98/marcofernando.github.io/raw/main/Data-Analytics-Projects/Excel%20Project.xlsx)
+
+  ### caso 3
