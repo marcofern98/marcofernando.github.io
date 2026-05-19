@@ -45,5 +45,5 @@ into its production processes to improve operational efficiency, faster innovati
   Developed dynamic formulas using nested date functions (COUNTIF combined with EDATE and TODAY) to accurately calculate real-time age thresholds.
   Built advanced index-matching models (`INDEX`/`MATCH` combined with `MIN`) to identify spending extremes. 
   Applied advanced array-like filtering logic (`FILTER` with boolean multiplication `*`) to isolate users renting multiple specific micro-mobility vehicles.
-* **Link:** [Download Project (Excel File)](https://github.com/marcofern98/marcofernando.github.io/blob/main/Data-Analytics-Projects/Excel%20Advanced%20Project.xlsx)
+* **Link:** [Download Project (Excel File)](https://github.com/marcofern98/marcofernando.github.io/raw/main/Data-Analytics-Projects/Excel%20Advanced%20Project.xlsx)
   
