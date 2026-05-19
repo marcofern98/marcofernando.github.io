@@ -46,4 +46,20 @@ into its production processes to improve operational efficiency, faster innovati
   Built advanced index-matching models (`INDEX`/`MATCH` combined with `MIN`) to identify spending extremes. 
   Applied advanced array-like filtering logic (`FILTER` with boolean multiplication `*`) to isolate users renting multiple specific micro-mobility vehicles.
 * **Link:** [Download Project (Excel File)](https://github.com/marcofern98/marcofernando.github.io/raw/main/Data-Analytics-Projects/Excel%20Advanced%20Project.xlsx)
+
+### Global Gender Representation & Diplomatic Analytics 
+
+* **Business Objective:** Analyze global diplomatic appointments data. The project focuses on mapping historical gender imbalances,
+  identifying regional leadership trends, and analyzing the "glass ceiling" effect across varying diplomatic ranks.
+* **Tools:** SQL (PostgreSQL/pgAdmin, Multi-table `JOIN`s, Window Functions, Data Type Casting).
+* **Core activities:** Handled data type mismatch issues by sanitizing raw CSV structures through text-to-numeric casting.
+  Formulated data validation checks to identify unique diplomats across chronological intervals (1968–2021),
+  isolated missing geographical profiles or title codes using the official project codebook.
+  Developed `SELECT` queries utilizing advanced grouping (`GROUP BY`) and aggregate functions to calculate historical gender growth rates.
+  Isolated a critical anomaly in the 2018 historical sequence, analyzing sudden trend drops against steady post-2013 growth.
+  Built relational filtering models to separate diplomatic titles by organizational hierarchy.
+  Applied multi-layered `INNER JOIN` and `LEFT JOIN` logic combining the core dataset with geographical metadata.
+  Utilized boolean filters to isolate specific macro-regions (e.g., Nordic Countries vs. Middle East)
+  and measure the direct impact of Feminist Foreign Policies (FFP) on appointment percentages.
+* **Link:** [[View Clean SQL Queries]() [View Project Presentation]()
   
