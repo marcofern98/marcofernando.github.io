@@ -94,5 +94,5 @@ into its production processes to improve operational efficiency, faster innovati
   and highlights key patterns such as the most frequent activity type and the highest‑reward action.
   To simulate real usage, I added a simple terminal menu that allows users to navigate the system’s main features.
 
-* **Link** 
+* **Link** [[View Python Project](https://github.com/marcofern98/marcofernando.github.io/blob/main/Data-Analytics-Projects/MarcoFernandoCaputo_Python.ipynb) 
   
